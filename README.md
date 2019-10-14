@@ -6,10 +6,12 @@ In this repository, I have published pictures to be able to train and test the c
 
 ![Detect1](https://github.com/vperrinfr/Lego_Detection/blob/master/images/lego1.png)
 
+
 ![Detect2](https://github.com/vperrinfr/Lego_Detection/blob/master/images/lego2.png)
 
-## Video of the training process and Auto Labelling feature using Watson Visual Recognition
+
+## Video of the training process and Auto Labelling feature of Watson Visual Recognition
 
 [![Alt text](https://github.com/vperrinfr/Lego_Detection/blob/master/images/thumb.png)](https://www.youtube.com/watch?v=lNAbvpDCgKU)
 
-
+if you want any questions about Watson Visual Recognition, don't hesitate to ping me.
