@@ -10,6 +10,6 @@ In this repository, I have published pictures to be able to train and test the c
 
 ## Video of the training process and Auto Labelling feature using Watson Visual Recognition
 
-Published soon
+[![Alt text](https://img.youtube.com/vi/https://youtu.be/lNAbvpDCgKU/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/lNAbvpDCgKU)
 
 
