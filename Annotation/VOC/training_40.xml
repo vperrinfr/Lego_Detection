@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Training</folder>
+	<filename>training_40.JPG</filename>
+	<path>/Users/vperrin/Desktop/Lego/resize 300x300/Training/training_40.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>61</ymin>
+			<xmax>104</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
